@@ -7,11 +7,11 @@
 
 ![Arceus_HTML](/Images/Arcues_html.png)
 
-1. CSS Preview
+2. CSS Preview
 
 ![Arceus_CSS](/Images/Arceus_css.png)
 
-1. TS Preview
+3. TS Preview
 
 ![Arceus_TS](/Images/Arceus_ts.png)
 
