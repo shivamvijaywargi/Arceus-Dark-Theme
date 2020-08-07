@@ -3,9 +3,15 @@
 
 ## Preview of the theme
 
+1. HTML Preview
+
 ![Arceus_HTML](/Images/Arcues_html.png)
 
+1. CSS Preview
+
 ![Arceus_CSS](/Images/Arceus_css.png)
+
+1. TS Preview
 
 ![Arceus_TS](/Images/Arceus_ts.png)
 
