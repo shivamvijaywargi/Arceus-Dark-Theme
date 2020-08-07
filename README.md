@@ -1,4 +1,4 @@
-## A Beautiful dark theme hand crafted by me and named it Arceus Dark
+# A Beautiful dark theme crafted by me, inspired from Todd Motto and named it Arceus Dark
 
 ## Preview of the theme
 
@@ -6,7 +6,7 @@
 
 ![Arceus_HTML](/Images/Arceus_html.png)
 
-2. CSS Preview
+1. CSS Preview
 
 ![Arceus_CSS](/Images/Arceus_css.png)
 
