@@ -4,7 +4,7 @@
 
 1. HTML Preview
 
-![Arceus_HTML](/Images/Arcues_html.png)
+![Arceus_HTML](/Images/Arceus_html.png)
 
 2. CSS Preview
 
