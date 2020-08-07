@@ -20,7 +20,7 @@ So, now the main purpose of making this theme: I tried a lot of themes available
 
 After making it I thought why not publish it to marketplace, maybe someone might find this usefull.
 
-#### Note: This theme is made keeping HTML, CSS, JS and TS in mind as I mostly use only these languages only
+#### Note: This theme is made keeping HTML, CSS, JS and TS in mind as I mostly use these languages only
 
 #### If you'd want this theme to work for other languages feel free to make PRs, I'd be more than happy to merge 'em
 
