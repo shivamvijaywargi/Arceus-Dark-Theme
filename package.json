@@ -1,21 +1,23 @@
 {
-    "name": "arceus-dark",
-    "displayName": "Arceus Dark",
-    "description": "A Dark theme which will please your eyes...",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.47.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Arceus Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Arceus Dark-color-theme.json"
-            }
-        ]
-    }
+  "name": "arceus-dark",
+  "displayName": "Arceus Dark Theme",
+  "description": "A Dark theme which will please your eyes...",
+  "version": "0.0.1",
+  "publisher": "shivam-vijaywargi",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arceus Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arceus Dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": "https://github.com/shivamvijaywargi/Arceus-Dark-Theme"
 }
