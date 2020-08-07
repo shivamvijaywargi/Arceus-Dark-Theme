@@ -1,4 +1,3 @@
-# README
 ## A Beautiful dark theme hand crafted by me and named it Arceus Dark
 
 ## Preview of the theme
