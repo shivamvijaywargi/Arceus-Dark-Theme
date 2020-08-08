@@ -620,7 +620,7 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#dab138" // F5D67B org - cca532 the text string, meta.embedded assembly
+        "foreground": "#cca532" // F5D67B org - cca532 the text string, meta.embedded assembly
       }
     },
     {
@@ -667,7 +667,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#72E0D1"   // 9CDCFE
+        "foreground": "#9CDCFE"   
       }
     },
     {
