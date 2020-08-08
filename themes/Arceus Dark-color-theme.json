@@ -479,8 +479,17 @@
         "entity.other.attribute-name.scss"
       ],
       "settings": {
-        "foreground": "#65a01e"  // D7BA7D
+        "foreground": "#70C407"  // D7BA7D  65a01e
       }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name.pseudo-class.css",
+      "entity.other.attribute-name.pseudo-element.css"
+    ],
+    "settings": {
+      "foreground": "#d84a45"
+    }
     },
     {
       "scope": "invalid",
