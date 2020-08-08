@@ -451,7 +451,7 @@
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#FF5450" // Done  F5D67B
+        "foreground": "#FF5450" // Done 
       }
     },
     {
@@ -620,7 +620,7 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#cca532"
+        "foreground": "#dab138" // F5D67B org - cca532 the text string, meta.embedded assembly
       }
     },
     {
@@ -708,7 +708,7 @@
     {
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#F5D67B" // Guessing this is px, rem, em
+        "foreground": "#F5D67B" // This is px, rem, em
       }
     },
     {
