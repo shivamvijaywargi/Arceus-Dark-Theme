@@ -472,14 +472,12 @@
         "entity.other.attribute-name.class.mixin.css",
         "entity.other.attribute-name.id.css",
         "entity.other.attribute-name.parent-selector.css",
-        "entity.other.attribute-name.pseudo-class.css",
-        "entity.other.attribute-name.pseudo-element.css",
         "source.css.less entity.other.attribute-name.id",
         "entity.other.attribute-name.attribute.scss",
         "entity.other.attribute-name.scss"
       ],
       "settings": {
-        "foreground": "#70C407"  // D7BA7D  65a01e
+        "foreground": "#70C407"
       }
     },
     {
@@ -490,6 +488,12 @@
     "settings": {
       "foreground": "#d84a45"
     }
+    },
+    {
+      "scope": "entity.other.attribute-name.id.css",
+      "settings": {
+        "foreground": "#F3CF30",
+      }
     },
     {
       "scope": "invalid",
