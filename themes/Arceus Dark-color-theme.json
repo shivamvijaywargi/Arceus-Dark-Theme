@@ -439,7 +439,7 @@
         "keyword.operator.minus.exponent"
       ],
       "settings": {
-        "foreground": "#CB74B8" // number in CSS CB74B8    B5CEA8
+        "foreground": "#FC9463" // number in CSS CB74B8    
       }
     },
     {
@@ -451,7 +451,7 @@
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#FF5450" // Done 
+        "foreground": "#FF5450" // Done  F5D67B
       }
     },
     {
@@ -477,7 +477,7 @@
         "entity.other.attribute-name.scss"
       ],
       "settings": {
-        "foreground": "#70C407"
+        "foreground": "#F5D67B" // CSS Class name
       }
     },
     {
@@ -486,13 +486,13 @@
       "entity.other.attribute-name.pseudo-element.css"
     ],
     "settings": {
-      "foreground": "#d84a45"
+      "foreground": "#d84a45" // CSS Pseudo Element
     }
     },
     {
       "scope": "entity.other.attribute-name.id.css",
       "settings": {
-        "foreground": "#F3CF30",
+        "foreground": "#F3CF30", // CSS ID
       }
     },
     {
@@ -566,7 +566,7 @@
     {
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#d8d8d8" 
+        "foreground": "#d8d8d8"
       }
     },
     {
@@ -667,7 +667,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#72E0D1"   // 9CDCFE
       }
     },
     {
@@ -708,7 +708,7 @@
     {
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#F44747" 
+        "foreground": "#F5D67B" // Guessing this is px, rem, em
       }
     },
     {
@@ -915,7 +915,7 @@
     {
       "scope": "entity.name.label",
       "settings": {
-        "foreground": "#C8C8C8"
+        "foreground": "#C8C8C8" // Test  C8C8C8  F5D67B
       }
     },
     {
