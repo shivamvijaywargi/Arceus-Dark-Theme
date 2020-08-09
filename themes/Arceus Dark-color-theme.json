@@ -47,25 +47,25 @@
     "titleBar.activeBackground": "#1b2029",
     "welcomePage.background": "#16171f",
     "welcomePage.buttonBackground": "#191a25",
-    "welcomePage.buttonHoverBackground": "#20232a"
-    //"activityBar.activeBorder": "#ffffff",
-    //"activityBar.dropBorder": "#ffffff",
-    //"activityBar.foreground": "#ffffff",
-    //"activityBar.inactiveForeground": "#ffffff66",
-    //"activityBarBadge.foreground": "#ffffff",
-    //"badge.background": "#4d4d4d",
-    //"badge.foreground": "#ffffff",
+    "welcomePage.buttonHoverBackground": "#20232a",
+    "activityBar.activeBorder": "#ffffff",
+    "activityBar.dropBorder": "#ffffff",
+    "activityBar.foreground": "#ffffff",
+    "activityBar.inactiveForeground": "#ffffff66",
+    "activityBarBadge.foreground": "#ffffff",
+    // "badge.background": "#4d4d4d",
+    // "badge.foreground": "#ffffff",
     //"breadcrumb.activeSelectionForeground": "#e0e0e0",
     //"breadcrumb.background": "#16171f",
     //"breadcrumb.focusForeground": "#e0e0e0",
     //"breadcrumb.foreground": "#cccccccc",
     //"breadcrumbPicker.background": "#1b1d29",
-    //"button.background": "#0e639c",
-    //"button.foreground": "#ffffff",
-    //"button.hoverBackground": "#1177bb",
-    //"button.secondaryBackground": "#3a3d41",
-    //"button.secondaryForeground": "#ffffff",
-    //"button.secondaryHoverBackground": "#45494e",
+    "button.background": "#0e639c",
+    "button.foreground": "#ffffff",
+    "button.hoverBackground": "#1177bb",
+    "button.secondaryBackground": "#3a3d41",
+    "button.secondaryForeground": "#ffffff",
+    "button.secondaryHoverBackground": "#45494e"
     //"checkbox.background": "#20232a",
     //"checkbox.border": "#20232a",
     //"checkbox.foreground": "#f0f0f0",
@@ -439,7 +439,7 @@
         "keyword.operator.minus.exponent"
       ],
       "settings": {
-        "foreground": "#FC9463" // number in CSS CB74B8    
+        "foreground": "#FC9463" // number in CSS CB74B8
       }
     },
     {
@@ -451,13 +451,13 @@
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#FF5450" // Done 
+        "foreground": "#FF5450" // Done
       }
     },
     {
       "scope": "entity.name.tag.css",
       "settings": {
-        "foreground": "#FF5450" // FF5450   D7BA7D
+        "foreground": "#FF5450" // FF5450 CSS names like head body not class/ID
       }
     },
     {
@@ -483,16 +483,16 @@
     {
       "scope": [
         "entity.other.attribute-name.pseudo-class.css",
-      "entity.other.attribute-name.pseudo-element.css"
-    ],
-    "settings": {
-      "foreground": "#d84a45" // CSS Pseudo Element
-    }
+        "entity.other.attribute-name.pseudo-element.css"
+      ],
+      "settings": {
+        "foreground": "#d84a45" // CSS Pseudo Element
+      }
     },
     {
       "scope": "entity.other.attribute-name.id.css",
       "settings": {
-        "foreground": "#F3CF30", // CSS ID
+        "foreground": "#F3CF30" // CSS ID
       }
     },
     {
@@ -566,7 +566,7 @@
     {
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#d8d8d8"
+        "foreground": "#d8d8d8" // HTML < > brackets
       }
     },
     {
@@ -608,7 +608,7 @@
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#569CD6" 
+        "foreground": "#569CD6"
       }
     },
     {
@@ -620,7 +620,7 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#cca532" // F5D67B org - cca532 the text string, meta.embedded assembly
+        "foreground": "#cca532" // F5D67B org - cca532 - the text string, meta.embedded assembly
       }
     },
     {
@@ -667,7 +667,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#9CDCFE"   
+        "foreground": "#9CDCFE" // CSS selector like width, height etc..,
       }
     },
     {
@@ -834,7 +834,7 @@
         "entity.name.variable"
       ],
       "settings": {
-        "foreground": "#5798D8"  // 5798D8 fix  9CDCFE
+        "foreground": "#5798D8" // 5798D8 fix  9CDCFE
       }
     },
     {
@@ -860,7 +860,7 @@
         "support.constant.color"
       ],
       "settings": {
-        "foreground": "#359baf" // ce9178
+        "foreground": "#F5D67B" // (last used - 359baf) css border-box or inherit
       }
     },
     {
